@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Aryan Singh 👋
 
-<!--
-**droidaryan/droidaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Student** at **Maharaja Agrasen Institute of Technology (MAIT), Rohini**  
+💻 **Aspiring Software Developer | Tech Enthusiast | Designer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently pursuing **Bachelor of Computer Applications (BCA)**  
+- 🌱 Exploring **Full-Stack Development**, **Data Structures & Algorithms**, and **UI/UX Design**  
+- 💡 Passionate about **Problem Solving**, **Open Source**, and **Creative Design**  
+- 🎨 Also have an interest in **Graphic Design** and **Freelancing Projects**  
+
+---
